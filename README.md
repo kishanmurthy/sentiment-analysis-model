@@ -1,5 +1,9 @@
-# SageMaker Deployment Project
+# Sentiment Analysis Model
+  
+A solution to udacity deep-learning nano degree Deploying a sentiment analysis model project. 
 
-The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
+### Info
+This project aims to perform sentiment-analysis on movie reviews using LSTM classifier. All the training, testing and deployment is performed using amazon sagemaker, lamda function and API gateway of AWS. 
 
-Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
+### Resources
+Link to udacity sagemaker-deployment repository can be found [here.](https://github.com/udacity/sagemaker-deployment)
